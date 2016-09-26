@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DatabaseAutoAwesome.PhpFile">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <AssociationLine Name="Classes" Type="DatabaseAutoAwesome.PhpClass">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.029" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Snippet" Type="DatabaseAutoAwesome.PhpSnippet" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="2.382" />
+        <Point X="3.938" Y="2.382" />
+        <Point X="3.938" Y="3.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.078" Y="1.206" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Forms" Type="DatabaseAutoAwesome.HTMLForm" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7" Y="2.312" />
+        <Point X="8.5" Y="2.312" />
+        <Point X="8.5" Y="3" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.258" Y="0.787" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAACAAEAAAAAAAABAAAAAAAgAAAAAAAAAgIAAAA=</HashCode>
+      <FileName>PHPObjects\PhpFile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Snippet" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Classes" />
+      <Property Name="Forms" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.PhpFunction">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAACAAAgAAAgAAACAAAAAAAAAAA=</HashCode>
+      <FileName>PHPObjects\PhpFunction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ParentClass" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.PhpSnippet">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <AssociationLine Name="ParentFile" Type="DatabaseAutoAwesome.PhpFile" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.125" Y="3.5" />
+        <Point X="4.125" Y="2.51" />
+        <Point X="5.5" Y="2.51" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.133" Y="-0.286" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PHPObjects\PhpSnippet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ParentFile" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.PhpClass">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <AssociationLine Name="ParentFile" Type="DatabaseAutoAwesome.PhpFile" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="5" />
+        <Point X="6.5" Y="4.002" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.88" Y="0.237" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABACEAAAAAAAQAAIAAAAgAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>PHPObjects\PhpClass.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ParentFile" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Functions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.CodeFile" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAIAAAAIAAAAABAAAA=</HashCode>
+      <FileName>CodeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.DBAppData">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <AssociationLine Name="SQLdb" Type="DatabaseAutoAwesome.MySQLDB">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.069" Y="0.216" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAQQgZCAAAAAAAACIAAEAAAAABgAAAAAAAAQIAAA=</HashCode>
+      <FileName>DBAppData.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SQLdb" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="CodeFiles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.JavascriptObjects.JavascriptFile">
+    <Position X="11" Y="2" Width="1.5" />
+    <AssociationLine Name="Functions" Type="DatabaseAutoAwesome.JavascriptObjects.JavascriptFunction">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.047" Y="0.57" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABCABAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JavascriptObjects\JavascriptFile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Functions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.JavascriptObjects.JavascriptFunction">
+    <Position X="11" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAAIAAAAAAAAYAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JavascriptObjects\JavascriptFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.MySQLDB">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAAAAAAAAIAAAQAAAAAAAACgAAAAAAAAAAAA=</HashCode>
+      <FileName>MySQLObjects\MySQLDB.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Tables" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.HTMLForm">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAABAAABAAAAIAAAKAAAAAAAAAAAAA=</HashCode>
+      <FileName>HTMLCodeObjects\HTMLForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FormTag" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.HTMLTag">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABAIAAAAAAQAAAAAEAICIAAACAAAAAA=</HashCode>
+      <FileName>HTMLCodeObjects\HTMLTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.MySQLTable">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAEAAAKAAAACAAAAAQAAAAAAAAAAAAAQAgAAAA=</HashCode>
+      <FileName>MySQLObjects\MySQLTable.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Columns" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DatabaseAutoAwesome.MySQLColumn" Collapsed="true">
+    <Position X="3.5" Y="8.5" Width="1.5" />
+    <AssociationLine Name="FieldRestrictions" Type="DatabaseAutoAwesome.HTMLInputRestrictions.FieldInputRestriction">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.131" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EEBAEQAAAUAAAFQAIACAQEAEEgAIQAAAAQBBAIhABAA=</HashCode>
+      <FileName>MySQLObjects\MySQLColumn.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="FieldRestrictions" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DatabaseAutoAwesome.HTMLInputRestrictions.FieldInputRestriction" Collapsed="true">
+    <Position X="3.25" Y="10" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAEAAAAAAAAAAAACBAAAAEAACCAAQgAAA=</HashCode>
+      <FileName>FieldInputRestrictions\FieldInputRestriction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\GraphX.PCL.Logic.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\GraphX.PCL.Common.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\QuickGraph.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\QuickGraph.Graphviz.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\GraphX.PCL.Common.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\QuickGraph.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\bin\Debug\QuickGraph.Graphviz.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\obj\Debug\GraphX.PCL.Logic.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\obj\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\GraphX.PCL.Logic\obj\Debug\GraphX.PCL.Logic.pdb

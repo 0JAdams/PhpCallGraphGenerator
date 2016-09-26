@@ -1,0 +1,32 @@
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\DatabaseAutoAwesome.exe.config
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\Database Auto Awesome.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\Templates\template.baml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome_MarkupCompile.cache
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.g.resources
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.Configure.resources
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.Form1.resources
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.Properties.Resources.resources
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\Database Auto Awesome.csproj.GenerateResource.Cache
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\DatabaseAutoAwesome.exe
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\DatabaseAutoAwesome.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.Controls.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.PCL.Common.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\MySql.Data.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Data.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Graphviz.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Serialization.dll
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.Controls.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.PCL.Common.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\GraphX.PCL.Logic.pdb
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\MySql.Data.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Data.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Graphviz.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\bin\Debug\QuickGraph.Serialization.xml
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.exe
+C:\Source\MyProjects\Database Auto Awesome\Database Auto Awesome\Database Auto Awesome\obj\Debug\DatabaseAutoAwesome.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\DatabaseAutoAwesome.exe.config
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.pdb

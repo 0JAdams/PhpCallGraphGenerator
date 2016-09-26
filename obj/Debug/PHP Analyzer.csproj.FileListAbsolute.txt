@@ -1,0 +1,58 @@
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\PHPAnalyzer.exe.config
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\PHPAnalyzer.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\PHPAnalyzer.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.Controls.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Common.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Data.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Graphviz.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Serialization.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.Controls.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Common.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Logic.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Data.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Graphviz.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Serialization.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHP Analyzer.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\Templates\template.baml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer_MarkupCompile.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.g.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.Configure.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.Form1.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.Properties.Resources.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHP Analyzer.csproj.GenerateResource.Cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHPAnalyzer.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\PHPAnalyzer.exe.config
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\PHPAnalyzer.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\PHPAnalyzer.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.Controls.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.PCL.Common.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\MySql.Data.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Data.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Graphviz.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Serialization.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.Controls.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.PCL.Common.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\GraphX.PCL.Logic.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\MySql.Data.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Data.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Graphviz.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\bin\Debug\QuickGraph.Serialization.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHP Analyzer.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\Templates\template.baml
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer_MarkupCompile.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.g.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.Configure.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.Form1.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHPAnalyzer.Properties.Resources.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Analyzer\PHP Analyzer\obj\Debug\PHP Analyzer.csproj.GenerateResource.Cache

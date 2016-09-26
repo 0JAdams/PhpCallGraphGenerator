@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHP Analyzer", "PHP Analyzer.csproj", "{DEF9A510-8482-4FEA-81C3-90254C79AE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Debug|x64.ActiveCfg = Debug|x64
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Debug|x64.Build.0 = Debug|x64
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Release|x64.ActiveCfg = Release|x64
+		{DEF9A510-8482-4FEA-81C3-90254C79AE98}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://destroyer0wrlds.visualstudio.com/
+		SccProjectUniqueName0 = PHP\u0020Analyzer.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://destroyer0wrlds.visualstudio.com
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

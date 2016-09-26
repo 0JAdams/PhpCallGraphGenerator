@@ -1,0 +1,27 @@
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHP Parser.csproj.GenerateResource.Cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.Controls.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Common.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Logic.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Data.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Graphviz.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Serialization.dll
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.Controls.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Common.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\GraphX.PCL.Logic.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Data.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Graphviz.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\QuickGraph.Serialization.xml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\PHP Parser.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\Templates\template.baml
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\DatabaseAutoAwesome.exe.config
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\DatabaseAutoAwesome.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\DatabaseAutoAwesome.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome_MarkupCompile.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.g.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.Configure.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.Form1.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.Properties.Resources.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\DatabaseAutoAwesome.pdb

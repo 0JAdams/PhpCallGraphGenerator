@@ -1,0 +1,18 @@
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\ThesisStuffs\PHP parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Source\MyProjects\PHP Analyzer\PHP Parser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
